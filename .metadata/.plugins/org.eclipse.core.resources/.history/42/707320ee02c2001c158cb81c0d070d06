@@ -1,0 +1,5 @@
+package com.wipro.junitex;
+
+public class Factorial {
+
+}

@@ -1,0 +1,27 @@
+package com.wipro.arrayex;
+
+public class StringSortingEx {
+	
+	public void sortStringArray(String[] arr) {
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		String[] city=new String[] {"Pune","Chennai","Bengaluru","Delhi","Vizag"};
+		
+		System.out.println("Goa".compareTo("Goa"));
+		
+		System.out.println("A".compareTo("B"));
+		
+		System.out.println("B".compareTo("A"));
+		
+		StringSortingEx sortingEx=new StringSortingEx();
+		
+		sortingEx.sortStringArray(city);
+		
+	}
+
+}

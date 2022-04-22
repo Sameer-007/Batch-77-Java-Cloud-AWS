@@ -1,0 +1,50 @@
+package com.wipro.arrayex;
+
+public class StringExample {
+	
+	public static void main(String[] args) {
+		
+		// Group of characters enclosed within double quotes
+		
+		String company="WiPro";
+		System.out.println("My Company " + company);
+		// String is Immutable 
+		// String Methods
+		
+		int size=company.length();
+		System.out.println("Length of String " + size); // index =>   0 to size-1   
+		
+		String lower =company.toLowerCase();
+		System.out.println(lower);
+		
+		String upper=company.toUpperCase();
+		System.out.println(upper);
+		
+		String str=company + " Technologies";
+		System.out.println(str);
+		
+		String str1=company.concat(" Limited");
+		System.out.println(str1);
+		
+		char ch=company.charAt(company.length()-1); // last character
+		System.out.println(ch);
+		
+		
+		String str3=company.substring(0,3); // 0 1 2 (3-1) 
+		System.out.println( " ---SubString--- " + str3);
+		
+		boolean status= company.contains("P");
+		if(status) {
+			System.out.println("Present");
+		}
+		else {
+			System.out.println("Not Present");
+		}
+		
+		
+		
+		System.out.println(company); // 
+		
+	}
+
+}

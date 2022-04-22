@@ -1,0 +1,13 @@
+package com.wipro.arrayex;
+
+public class StringExample {
+	
+	public static void main(String[] args) {
+		
+		// Group of characters enclosed within double quotes
+		
+		String company="Wipro";
+		
+	}
+
+}

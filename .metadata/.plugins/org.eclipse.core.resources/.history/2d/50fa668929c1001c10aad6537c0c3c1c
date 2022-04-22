@@ -1,0 +1,23 @@
+package com.wipro.arrayex;
+
+public class StringExample {
+	
+	public static void main(String[] args) {
+		
+		// Group of characters enclosed within double quotes
+		
+		String company="WiPro";
+		System.out.println("My Company " + company);
+		// String is Immutable 
+		// String Methods
+		
+		int size=company.length();
+		System.out.println("Length of String " + size); // index =>   0 to size-1   
+		
+		company.toLowerCase();
+		
+		System.out.println(company); // 
+		
+	}
+
+}

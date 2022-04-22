@@ -1,0 +1,27 @@
+package com.wipro.employee;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	// Constructor  - default constructor  /  Parameterized constructor
+    	Employee employee=new Employee();
+    	
+    	System.out.println(employee.id);
+    	System.out.println(employee.name);
+    	System.out.println(employee.salary);
+    	System.out.println(employee.company);
+    	
+    	
+    	// Getter and Setter Method
+    	
+    	
+    	
+    	
+    }
+}

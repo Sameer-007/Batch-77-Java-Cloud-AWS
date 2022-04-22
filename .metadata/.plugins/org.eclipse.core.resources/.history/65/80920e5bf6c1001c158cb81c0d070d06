@@ -1,0 +1,35 @@
+package com.wipro.employee;
+
+public class Employee {
+
+	public int id;
+	public String name;
+	public double salary;
+	public String company;
+	
+	// Special Member function
+	// Constructor - construct the values
+	// JVM automatically create constructor -  
+	// set default values to instance variable
+	public Employee() {
+		System.out.println("No Argument Constructor");
+		this.id=101;
+		this.name="Murali";
+		this.salary=25000;
+		this.company="Stackroute";
+	}
+
+	// Parameterized Constructor
+	public Employee(int id,String name,double salary,String company) {
+		this.id=id;
+		this.name=name;
+		this.salary=salary;
+		this.company=company;
+	}
+	
+    public void displayEmployeeDetails() {
+    	System.out.println(id + "--" + name+"--"+salary+"--"+company);
+    }
+	
+	
+}

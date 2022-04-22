@@ -1,0 +1,10 @@
+package com.wipro.junitex;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CalculatorTest {
+
+	
+}

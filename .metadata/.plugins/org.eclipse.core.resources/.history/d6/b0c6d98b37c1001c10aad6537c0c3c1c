@@ -1,0 +1,37 @@
+package com.wipro.arrayex;
+
+public class PalindromeEx {
+
+	public boolean checkPalindrome(String word) {
+		// System.out.println(word);
+		int firstIndex = 0;
+		int lastIndex = word.length() - 1;
+		boolean flag = true;
+		while (lastIndex > 1) {
+			if (word.charAt(firstIndex) != word.charAt(lastIndex)) {
+				flag = false;
+				break;
+			}
+			firstIndex++;
+			lastIndex--;
+		}
+
+		return flag;
+	}
+
+	public static void main(String[] args) {
+
+		String str = "Malayalam";
+		PalindromeEx palindromeEx = new PalindromeEx();
+
+		 if(palindromeEx.checkPalindrome(str.toLowerCase())) {
+			 System.out.println(str + " is Paindrome");
+		 }
+		 else {
+			 System.out.println(str + " is not  paindrome");
+		 }
+		 
+
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.wipro.junitex;
+
+public class Calculator {
+
+	// Unit Testing - Testing Individual Methods
+
+	public int addition(int x, int y) {
+		return x + y;
+	}
+
+	public double dvision(int x, int y) {
+		if (y != 0) {
+			return x / y;
+		}
+
+		return -1;
+	}
+	
+	// Factorial
+	public int factorial(int x) {
+		// 5   - 120
+		// -6  - -1
+		// 0   - 1
+		// 1   - 1
+		// q   - -1
+		return 0;
+	}
+   // Complete problem Connect @11.30am
+}

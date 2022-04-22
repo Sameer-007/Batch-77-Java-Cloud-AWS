@@ -1,0 +1,8 @@
+package com.wipro.fundamentals;
+
+public class LoopingEx {
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.wipro.customer;
+
+public class Calculator {
+	
+	public int numberOne;
+	public int numberTwo;
+
+}

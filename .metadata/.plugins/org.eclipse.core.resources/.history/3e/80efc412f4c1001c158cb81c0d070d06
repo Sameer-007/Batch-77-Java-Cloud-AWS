@@ -1,0 +1,20 @@
+package com.wipro.employee;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	// Constructor  - default constructor  /  Parameterized constructor
+    	
+    	// Getter and Setter Method
+    	
+    	
+    	
+    	
+    }
+}

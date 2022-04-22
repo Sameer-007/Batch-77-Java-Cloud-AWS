@@ -1,0 +1,19 @@
+package com.wipro.junitex;
+
+import org.junit.Test;
+
+public class CalculatorTest {
+  
+	
+	@Test
+	public void testAddition() {
+		
+	}
+	
+	@Test
+	public void testDivision() {
+		
+	}
+	
+	
+}

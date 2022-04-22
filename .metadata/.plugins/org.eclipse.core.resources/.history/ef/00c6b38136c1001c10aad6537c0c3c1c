@@ -1,0 +1,25 @@
+package com.wipro.arrayex;
+
+public class PalindromeEx {
+	
+	public boolean checkPalindrome(String word) {
+		return false;
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		String str="aabaa";
+		PalindromeEx palindromeEx=new PalindromeEx();
+		
+		
+		palindromeEx.checkPalindrome(str);
+		
+		
+		
+		
+		
+	}
+
+}

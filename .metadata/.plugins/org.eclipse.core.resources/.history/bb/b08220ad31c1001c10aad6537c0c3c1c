@@ -1,0 +1,18 @@
+package com.wipro.arrayex;
+
+import java.util.Scanner;
+
+public class ProblemOne {
+	
+	public static void main(String[] args) {
+		
+		Scanner scanner=new Scanner(System.in);
+		int sizeOfArray=scanner.nextInt();
+		String[] city=new String[sizeOfArray];
+		
+		
+		
+		
+	}
+
+}

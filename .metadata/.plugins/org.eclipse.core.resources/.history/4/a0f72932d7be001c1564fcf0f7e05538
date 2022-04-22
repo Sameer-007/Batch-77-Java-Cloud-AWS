@@ -1,0 +1,14 @@
+package com.wipro.customer;
+
+public class Calculator {
+	// Instance Variable
+	public int numberOne;
+	public int numberTwo;
+	
+	//Instance Method
+	public int addition(int x,int y) {
+		int result=x+y;
+		return result;
+	}
+
+}

@@ -1,0 +1,39 @@
+package com.wipro.arrayex;
+
+public class PalindromeEx {
+	
+	public boolean checkPalindrome(String word) {
+		//System.out.println(word);
+		int firstIndex=0;
+		int lastIndex=word.length()-1;
+		boolean flag=true;
+		while(lastIndex>1) {
+			if(word.charAt(firstIndex) != word.charAt(lastIndex) ) {
+				 flag=false;
+				 break;
+			}
+			firstIndex++;
+			lastIndex--;
+		}
+		
+		
+		return false;
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		String str="aabaa";
+		PalindromeEx palindromeEx=new PalindromeEx();
+		
+		
+		palindromeEx.checkPalindrome(str);
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,34 @@
+package com.wipro.fundamentals;
+
+public class LoopingEx {
+	public static void main(String[] args) {
+		// Print Numbers 1 - 10
+		for(int i=1;i<=10;i=i+2) {
+			System.out.println(i);
+		}
+		
+		// print Sum of numbers from 1-10
+		// Multiply 1*2*3 ...*10
+		int sum=0;
+		int mul=1;
+		for(int i=1;i<=10;i++) {
+			sum=sum+i;
+			mul=mul*i;
+		}
+	    
+		System.out.println("Sum " + sum + " Mul " + mul);
+		// Print only odd /even numbers between 50-100
+		// Sum of odd/even numbers between 50-100
+		int evenSum=0,oddSum=0;
+		for(int i=50;i<=100; i++) {
+			if(i%2==0) {
+				evenSum=evenSum+i;
+			}
+			else {
+				oddSum=oddSum+i;
+			}
+		}
+		System.out.println("Even Sum " + evenSum + "Odd Sum " + oddSum);
+	}
+
+}

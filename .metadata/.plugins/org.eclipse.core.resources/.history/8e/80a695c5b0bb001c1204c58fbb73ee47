@@ -1,0 +1,17 @@
+package com.wipro.fundamentals;
+
+public class LoopingWhileEx {
+	
+	public static void main(String arg[]) {
+		
+		//Difference between for / while
+		
+		int i=1;
+		while(i>0) {
+			System.out.println(i);
+		}
+		
+		
+	}
+
+}

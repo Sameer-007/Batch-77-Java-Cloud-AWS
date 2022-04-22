@@ -1,0 +1,20 @@
+package com.wipro.arrayex;
+
+public class ArrayEx {
+	
+	public static void main(String[] args) {
+		// Array is Fixed size
+		// Array is an Object
+		double[] cgpa=new double[100];
+		
+		String[] city=new String[] {"Chennai","Kollam","Madikeri","Vizag","Pune"}
+		
+		 
+		
+		
+	}
+	
+	
+	
+
+}

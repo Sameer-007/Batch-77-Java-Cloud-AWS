@@ -1,0 +1,10 @@
+package com.wipro.customer;
+
+public class Calculator {
+	// Instance Variable
+	public int numberOne;
+	public int numberTwo;
+	
+	//Instance Method
+
+}

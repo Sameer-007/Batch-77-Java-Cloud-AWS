@@ -1,0 +1,12 @@
+package com.wipro.fundamentals;
+
+public class Test {
+   
+	// Variable - Instance Variable // Class / Static Variable // Local Variable
+	public static void main(String[] xyz) {
+		// Local Variable -  Declared inside any method or block {}
+		
+		
+		
+	}
+}
