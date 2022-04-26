@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="FactorialTest" project="junitex" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.wipro.junitex.FactorialTest" time="0.0">
-    <testcase name="factorialForPostiveNumber" classname="com.wipro.junitex.FactorialTest" time="0.0"/>
-    <testcase name="factorialForNegativeNumbers" classname="com.wipro.junitex.FactorialTest" time="0.0"/>
-  </testsuite>
-</testrun>
