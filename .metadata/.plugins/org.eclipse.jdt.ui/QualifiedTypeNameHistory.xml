@@ -11,4 +11,9 @@
     <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="com.wipro.junitex.Calculator"/>
     <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="com.wipro.encapsulation.Employee"/>
+    <fullyQualifiedTypeName name="com.wipro.encapsulation.Address"/>
+    <fullyQualifiedTypeName name="com.wipro.bookstore.Author"/>
+    <fullyQualifiedTypeName name="com.wipro.bookstore.Book"/>
+    <fullyQualifiedTypeName name="com.wipro.bookstore.BookService"/>
 </qualifiedTypeNameHistroy>
