@@ -2488,3 +2488,49 @@ Caused by: java.lang.Exception: Resource '/uniquearray/pom.xml' does not exist.
 2022-04-27 12:12:51,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-27 12:12:51,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\inheritence\src\test\resources
 2022-04-28 09:05:29,308 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-28 09:08:06,915 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-28 09:42:31,438 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Wipro Velocity Wave1\jap_c3_s4_inheritance_pc1\inherit\pom.xml
+2022-04-28 09:42:37,274 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wipro:inherit:0.0.1-SNAPSHOT @ D:\Wipro Velocity Wave1\jap_c3_s4_inheritance_pc1\inherit\pom.xml.
+2022-04-28 09:42:39,646 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inherit/src/main/java
+2022-04-28 09:42:39,661 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inherit/src/test/java
+2022-04-28 09:42:39,952 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2022-04-28 09:42:43,099 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:43,099 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\arrayex\src\main\resources
+2022-04-28 09:42:43,103 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:43,103 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\arrayex\src\test\resources
+2022-04-28 09:42:43,535 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:43,535 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\customer\src\main\resources
+2022-04-28 09:42:43,540 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:43,540 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\customer\src\test\resources
+2022-04-28 09:42:44,100 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:44,101 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\employee\src\main\resources
+2022-04-28 09:42:44,103 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:44,104 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\employee\src\test\resources
+2022-04-28 09:42:44,734 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:44,735 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\encapsulation\src\main\resources
+2022-04-28 09:42:44,737 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:44,738 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\encapsulation\src\test\resources
+2022-04-28 09:42:45,125 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:45,127 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\fundamentals\src\main\resources
+2022-04-28 09:42:45,138 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:45,138 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\fundamentals\src\test\resources
+2022-04-28 09:42:45,624 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:45,625 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\jap_c3_s4_inheritance_pc1\inherit\src\main\resources
+2022-04-28 09:42:45,630 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:45,631 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\jap_c3_s4_inheritance_pc1\inherit\src\test\resources
+2022-04-28 09:42:46,388 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:46,388 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\inheritence\src\main\resources
+2022-04-28 09:42:46,390 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:46,390 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\inheritence\src\test\resources
+2022-04-28 09:42:47,098 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:47,098 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\junitex\src\main\resources
+2022-04-28 09:42:47,102 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:47,102 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\junitex\src\test\resources
+2022-04-28 09:42:54,034 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:54,035 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sathish.g\Desktop\Challenge\jap_c2_s7_junittesting_mc2\src\main\resources
+2022-04-28 09:42:54,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:54,040 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sathish.g\Desktop\Challenge\jap_c2_s7_junittesting_mc2\src\test\resources
+2022-04-28 09:42:56,740 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:56,740 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\product\src\main\resources
+2022-04-28 09:42:56,744 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 09:42:56,745 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Wipro Velocity Wave1\product\src\test\resources
