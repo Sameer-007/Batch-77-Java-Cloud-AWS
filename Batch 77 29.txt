@@ -1,0 +1,25 @@
+    
+
+
+    1. Encapsulation  - protect/hide the data from other classes  
+
+            Access modifiers - Public Private Protected
+
+    2. Inheritence (Is A relationship) - reusability
+
+             1. Single
+             2. Multilevel 
+
+    3. Data Abstraction : To achieve security - hide implementation details / shows essential information to user
+
+                        1. Interface - 100% Data Abstruction
+                        2. abstract class 
+
+    4. class objects methods
+
+
+    5.Polymorphism : More than one form (many forms)     
+                     Same name different actions
+
+                    1.Method Overloading -  Compile time Polymorphism 
+                    2.Method Overriding  - Run time Polymorphism

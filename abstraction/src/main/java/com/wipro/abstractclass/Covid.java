@@ -14,3 +14,5 @@ public abstract class Covid {
 	}
 
 }
+
+

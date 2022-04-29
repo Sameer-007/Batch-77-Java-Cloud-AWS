@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Wipro Velocity Wave1\jap_c3_s4_inheritance_pc1"/>
 			<item value="D:\Wipro Velocity Wave1\employee\src\main\java\com\wipro\employee\Employee.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,6 +27,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.abstraction"/>
+			<item value="com.wipro.inherit"/>
 			<item value="com.wipro.inheritence"/>
 			<item value="com.wipro.encapsulation"/>
 			<item value="com.wipro.junitex"/>
@@ -36,6 +39,8 @@
 			<item value="com.wipro"/>
 		</list>
 		<list key="artifactId">
+			<item value="abstraction"/>
+			<item value="inherit"/>
 			<item value="inheritence"/>
 			<item value="encapsulation"/>
 			<item value="junitex"/>

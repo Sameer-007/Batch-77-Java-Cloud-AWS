@@ -21,6 +21,11 @@ public class CalcualtorMain implements Calculator {
 	public static void main(String[] args) {
 
 		CalcualtorMain calcualtor = new CalcualtorMain();
+		
+		//FuelEngine[] fengine=new FuelEngine[7];
+		
+		
+		CalcualtorMain[] calMains=new CalcualtorMain[10];
 
 		System.out.println(calcualtor.addition(x, y));
 		System.out.println(calcualtor.subtraction(x, y));

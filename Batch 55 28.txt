@@ -1,0 +1,51 @@
+  
+  Object Oriented Programmig : 20 April - 28 April
+   
+  1.Class Object Methods
+
+  2.Encapsulation -  Hide/Protect Data   from other clasess
+                   -  Access  Modifiers  Public / Private / Protected
+
+  3.Inheritence(Is A) - Reusability 
+                  Dell is a laptop
+                  Book is a Author
+
+  4.Data Abstraction   -to achieve the security 
+                       -Hide implemenation details 
+                       
+                        Interface / Abstract class
+
+  5.Polymorphism - Method Overloading / Method Overriding  
+
+  ------------------------------------------------------------------------------------------------------------------------------------    
+   static / final / this / super
+
+   Wrapper class and Inner Class
+ 
+   Enumeration -  Problem discusion
+   
+   Unit Testing - >  Test the Individual Unit (Methods)   
+
+
+       factorial  ->   5    ->   120  // Positve number
+
+                       -5   ->    -1  // Negative Number
+
+                       0   ->    1    // zero
+                       1   ->    1    // one
+                   
+
+    Wrapper Class and InnerClass
+
+
+
+
+
+
+
+  
+  
+ 
+
+   
+        

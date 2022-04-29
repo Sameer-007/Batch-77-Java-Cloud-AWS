@@ -16,4 +16,10 @@
     <fullyQualifiedTypeName name="com.wipro.bookstore.Author"/>
     <fullyQualifiedTypeName name="com.wipro.bookstore.Book"/>
     <fullyQualifiedTypeName name="com.wipro.bookstore.BookService"/>
+    <fullyQualifiedTypeName name="com.wipro.abstraction.Parivahan"/>
+    <fullyQualifiedTypeName name="com.wipro.abstraction.Karnataka"/>
+    <fullyQualifiedTypeName name="com.wipro.abstraction.Kerala"/>
+    <fullyQualifiedTypeName name="com.wipro.calculator.Calculator"/>
+    <fullyQualifiedTypeName name="com.wipro.abstractclass.StateGovt"/>
+    <fullyQualifiedTypeName name="com.wipro.calculator.CalcualtorMain"/>
 </qualifiedTypeNameHistroy>

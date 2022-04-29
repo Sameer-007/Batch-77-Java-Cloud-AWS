@@ -15,3 +15,5 @@ public interface Calculator {
 	double division(int x, int y);
 
 }
+
+//Practice the Problems @11.15am
