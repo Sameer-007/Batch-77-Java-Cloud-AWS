@@ -15,7 +15,6 @@ public class ShapeMain {
 			rectangle.setLength(scanner.nextInt());
 			System.out.println("Enter Bredth");
 			rectangle.setBredth(scanner.nextInt());
-
 			System.out.println("Area of Rect " + rectangle.area());
 
 		}
@@ -26,6 +25,7 @@ public class ShapeMain {
 			System.out.println("Area of Circle " + circle.area());
 
 		}
+		// Connect @11.30pm
 
 	}
 

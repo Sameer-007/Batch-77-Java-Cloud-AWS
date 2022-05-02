@@ -22,4 +22,5 @@
                      Same name different actions
 
                     1.Method Overloading -  Compile time Polymorphism 
-                    2.Method Overriding  - Run time Polymorphism
+                    2.Method Overriding  - Run time Polymorphism 
+                              (Is A Relation)

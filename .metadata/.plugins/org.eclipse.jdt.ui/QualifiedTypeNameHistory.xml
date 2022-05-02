@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.wipro.customer.Customer"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Calculator"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.jap.areacalculator.AreaCalculator"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Employee"/>
     <fullyQualifiedTypeName name="com.wipro.employee.Employee"/>
@@ -22,4 +21,11 @@
     <fullyQualifiedTypeName name="com.wipro.calculator.Calculator"/>
     <fullyQualifiedTypeName name="com.wipro.abstractclass.StateGovt"/>
     <fullyQualifiedTypeName name="com.wipro.calculator.CalcualtorMain"/>
+    <fullyQualifiedTypeName name="com.wipro.polymorphism.Addition"/>
+    <fullyQualifiedTypeName name="com.wipro.stall.Stall"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.wipro.overide.Rectangle"/>
+    <fullyQualifiedTypeName name="com.wipro.overide.Circle"/>
 </qualifiedTypeNameHistroy>
