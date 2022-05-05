@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.exceptionhandling"/>
 			<item value="com.wipro.polymorphism"/>
 			<item value="com.wipro.abstraction"/>
 			<item value="com.wipro.inherit"/>
@@ -40,6 +41,7 @@
 			<item value="com.wipro"/>
 		</list>
 		<list key="artifactId">
+			<item value="exceptionhandling"/>
 			<item value="polymorphism"/>
 			<item value="abstraction"/>
 			<item value="inherit"/>
